@@ -1,0 +1,3 @@
+Using the round 7 data - https://www.afrobarometer.org/data/merged-data
+pip install pyreadstat
+Follow this tutorial: https://towardsdatascience.com/how-to-analyze-survey-data-with-python-84eff9cc9568
